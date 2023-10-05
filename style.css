@@ -1,0 +1,43 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("./heart.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.name1{
+    font-weight: bold;
+    text-decoration:underline;
+}
+.name2{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#content-box{
+    width:400px;
+    height: 500px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 40px;
+
+}
+
+#calculate{
+    width: 150px;
+    height: 50px;
+    background-color:#E0B0FF;
+    color:#9F2B68;
+    font-size:15px;
+    border-radius: 10px;
+    border: none;
+    margin-top:20px;
+}
+
+#result-percentage{
+    font-size: 50px;
+
+}
